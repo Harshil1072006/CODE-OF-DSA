@@ -18,7 +18,7 @@ int main()
             cout << j;
         }
 
-        for (int k = i; k < 1; k--)
+        for (int k = i; k >= 1; k--)
         {
             cout << k;
         }
