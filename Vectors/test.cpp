@@ -8,7 +8,7 @@ int main()
     cout << "vec[10] = " << vec[10] << endl
          << endl;
 
-    cout << "For ech loop output with vel in the cout" << endl;
+    cout << "For ech loop output with val in the cout" << endl;
     for (int val : vec) // see the loop output is 1 2 3 4 5
     {
         cout << val << " ";

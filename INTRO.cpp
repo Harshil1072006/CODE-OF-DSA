@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     // initialization
-    int marks[5] = {10, 20, 30, 40, 50}; // we can store less than 5 items in this array
+    int marks[5] = {10, 20, 30, 40, 50}; // array of size 5, initialized with 5 values
 
     double prize[] = {55, 65, 58}; // the amount of item we'll store in this will be the array size automatically.
 
