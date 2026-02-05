@@ -22,3 +22,31 @@ This is a personal learning resource but can help others who want examples of fo
 ---
 
 ## 🗂️ Folder Structure
+📁 .vscode → Editor configs
+📁 0.Practice_Problems → Collection of problem solutions
+📁 1.INTRO → Introduction / basic setup code
+📁 2.Patterns → Code for common coding patterns
+📁 3.Functions → Function examples & utilities
+📁 4.Binary_System → Binary number logic
+📁 5.Bitwse_Operator → Bitwise operator demos
+📁 6.Array → Array based problems
+📁 7.Vector → C++ vector usage & problems
+📁 Projects → Mini projects or experimental code
+📁 bla stuff → Misc code (rename later)
+📁 ctf stuff → Capture The Flag / puzzles
+📄 README.md → This file
+
+---
+
+## 🛠️ Languages Used
+
+- **C++** (main language, most solutions)
+- **Python** (some utilities / helpers)
+
+---
+
+## 📦 How to Use
+
+1. **Clone the repo**
+```bash
+git clone https://github.com/Harshil1072006/CODE-OF-DSA.git
