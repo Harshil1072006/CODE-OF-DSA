@@ -30,11 +30,11 @@ int main()
     cout << vec1[2] << endl
          << endl;
 
-    vector<char> char {'a','b','c','d'}; // char vector
-    cout << char[0] << endl;
-    cout << char[1] << endl;
-    cout << char[2] << endl;
-    cout << char[3] << endl
+    vector<char> chare {'a','b','c','d'}; // char vector
+    cout << chare[0] << endl;
+    cout << chare[1] << endl;
+    cout << chare[2] << endl;
+    cout << chare[3] << endl
          << endl;
          
 
