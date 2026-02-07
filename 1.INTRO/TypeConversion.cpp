@@ -10,3 +10,6 @@ int main() {
 }
 
 //type conversion is done by the computer. automatically..
+
+//conversion ---- implicit
+//casting ---- explicit

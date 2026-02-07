@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     // initialization
-    int marks[5] = {10, 20, 30, 40, 50}; // we can store less than 5 items in this array
+    int marks[5] = {10, 20, 30, 40, 50}; // max storage is 5
     // size
     int size = sizeof(marks) / sizeof(marks[0]);
     cout << "size of marks array is : " << size << endl;            // this will give the bytes of in the memory not the boxes, get it ?
