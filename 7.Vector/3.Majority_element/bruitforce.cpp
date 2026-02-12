@@ -20,7 +20,7 @@ int MajorityElement(vector<int> &nums)
             return val;
         }
     }
-    return -1;
+    return -1; // kuch nahi mila ---- if you dont find thr answer it will not give the error.+-
 }
 
 int main()

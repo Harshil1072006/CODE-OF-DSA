@@ -15,15 +15,10 @@ int main()
         {
             CurrentSum += arr[end];
             maxsum = max(CurrentSum, maxsum);
-            if (CurrentSum < 0)
-            {
-                CurrentSum = 0;
-            }
         }
-        cout << endl;
     }
 
-    cout << "max sum is: " << maxsum;
+    cout << "max sum is: " << maxsum << endl;
 
     return 0;
 }

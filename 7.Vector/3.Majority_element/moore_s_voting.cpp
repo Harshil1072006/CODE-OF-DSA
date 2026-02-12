@@ -13,7 +13,7 @@ int majorityElement(vector<int> &nums)
         {
             ans = nums[i];
         }
-        if (ans = nums[i])
+        if (ans == nums[i])
         {
             freq++;
         }
